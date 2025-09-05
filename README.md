@@ -95,3 +95,17 @@ Other parameters are similar to those in Fake User Detection.
     ```bash
     python -m running_time_Overall --ratio=0.1 --splits=10 --h_ao=0 --vswhat=epsilon --dataset=zipf --protocol=GRR
     ```
+    
+## Citation
+
+If you use this repository, please cite our paper:
+
+```bibtex
+@inproceedings{Li2025MDPA,
+  author    = {Xiaolin Li and Ninghui Li and Boyang Wang and Wenhai Sun},
+  title     = {Mitigating Data Poisoning Attacks to Local Differential Privacy},
+  booktitle = {Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security},
+  year      = {2025},
+  publisher = {ACM},
+  doi       = {10.1145/3719027.3744839}
+}
