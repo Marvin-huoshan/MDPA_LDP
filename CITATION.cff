@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our paper accepted at ACM CCS."
+title: "Mitigating Data Poisoning Attacks to Local Differential Privacy"
+version: 1.0.0
+doi: 10.1145/3719027.3744839
+date-released: 2025-09-05
+authors:
+  - family-names: Li
+    given-names: Xiaolin
+    affiliation: Purdue University
+  - family-names: Li
+    given-names: Ninghui
+    affiliation: Purdue University
+  - family-names: Wang
+    given-names: Boyang
+    affiliation: The University of Cincinnati
+  - family-names: Sun
+    given-names: Wenhai
+    affiliation: Purdue University
+repository-code: "https://github.com/Marvin-huoshan/MDPA_LDP"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Li
+      given-names: Xiaolin
+    - family-names: Li
+      given-names: Ninghui
+    - family-names: Wang
+      given-names: Boyang
+    - family-names: Sun
+      given-names: Wenhai
+  title: "Mitigating Data Poisoning Attacks to Local Differential Privacy"
+  collection-title: "The ACM Conference on Computer and Communications Security (CCS)"
+  year: 2025
+  publisher: "ACM"
+  doi: 10.1145/3719027.3744839
